@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on
 - My Three.js Personal Portfolio
-- Side Web Projects from an Online Course
+- Server-Sided small projects
 
 
 🌱 I’m currently learning
