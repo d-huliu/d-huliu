@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on
 - My Three.js Personal Portfolio
-- Side Web Projects in a Udemy Course taught by Angela Yu.
+- Side Web Projects from an Online Course
 
 
 🌱 I’m currently learning
