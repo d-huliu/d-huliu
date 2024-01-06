@@ -7,12 +7,13 @@ I'm most interested in Full-Stack development along with Machine Learning/Data S
 
 🔭 I’m currently working on
 - My Three.js Personal Portfolio
-- Server-Sided small projects
+- Server-Sided/Back-end projects
 
 
 🌱 I’m currently learning
 - Express.js/Node.js
 - API's
+- PostgreSQL
 - React.js
 
 To Reach out, use:
