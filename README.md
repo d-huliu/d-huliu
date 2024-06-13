@@ -9,9 +9,9 @@ I'm most interested in Full-Stack development along with Machine Learning/Data S
 
 
 🌱 I’m currently learning
-- Express.js/Node.js
+- Nest.js, Node.js
 - API's
-- React.js
+- Redux
 
 My Website: https://dhuliu.ca <br> <br>
 To Reach out, use:
