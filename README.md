@@ -9,7 +9,7 @@ I'm most interested in Full-Stack development along with Machine Learning/Data S
 
 
 🌱 I’m currently learning
-- Nest.js, Node.js
+- Nest.js, Mongoose
 - API's
 - Redux
 
