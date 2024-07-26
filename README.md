@@ -1,7 +1,7 @@
 ### Hi there, I'm David Hu-Liu 👋
 
-I'm a Developer and a student @ UWaterloo studying CS 
-I'm most interested in Full-Stack development along with Machine Learning/Data Science. I hope to one day utilize these technologies society forces me to learn, and actually create innovative projects that could help other people. 
+I'm a Developer, and a student @ UWaterloo studying CS. 
+I'm most interested in Full-Stack development along with Machine Learning/Data Science. I hope to one day utilize technologies learned, to create innovative projects that could help other people. 
 
 🔭 I’m currently working on
 - My Personal Portfolio
