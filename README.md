@@ -1,21 +1,23 @@
 ### Hi there, I'm David Hu-Liu 👋
 
-I'm a Developer, and a student @ UWaterloo studying CS. 
-I'm most interested in Full-Stack development along with Machine Learning/Data Science. I hope to one day utilize technologies learned, to create innovative projects that could help other people. 
+Hi, my name is David Hu-Liu, a Computer Science Student @ UWaterloo and Software Engineer.
+
+I am currently most interested in Software Development opportunities in the Fin-Tech space; Combining my Investment interest alongside techniques learnt in SWE. And in in my long-term vision, I hope to try Sales Solution Architecting, which may pose as quite the hustle.
 
 🔭 I’m currently working on
-- My Personal Portfolio
-- Server-Sided/Back-end projects
+- Flair Fashion Studio
+- CosmicBase
 
 
-🌱 I’m currently learning
-- Nest.js, Mongoose
-- API's
-- Redux
+🌱 I’m currently trying to learn
+- Mathematical Finance
+- Data Structures & Algo
+- Intro to System Design
 
 My Website: https://dhuliu.ca <br> <br>
 To Reach out, use:
 
+Business Inquiries: https://huliu.ca
 LinkedIn: https://www.linkedin.com/in/d-huliu
 
 Email: huliud9vid@gmail.com
