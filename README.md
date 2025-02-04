@@ -14,10 +14,13 @@ I am currently most interested in Software Development opportunities in the Fin-
 - Data Structures & Algo
 - Intro to System Design
 
-My Website: https://dhuliu.ca <br> <br>
+My Resume: https://dhuliu.ca <br> <br>
+Business Portfolio: https://huliu.ca <br> <br>
+
+
 To Reach out, use:
 
-Business Inquiries: https://huliu.ca
+
 LinkedIn: https://www.linkedin.com/in/d-huliu
 
 Email: huliud9vid@gmail.com
