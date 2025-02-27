@@ -2,7 +2,7 @@
 
 Hi, my name is David Hu-Liu, a Computer Science Student @ UWaterloo and Software Engineer.
 
-I am currently most interested in Software Development opportunities in the Fin-Tech space; Combining my Investment interest alongside techniques learnt in SWE. And in in my long-term vision, I hope to try Sales Solution Architecting, which may pose as quite the hustle.
+I am currently most interested in Software Development opportunities in the Fin-Tech space; Combining my Investment interest alongside techniques learnt in SWE. And in in my long-term vision, I hope to try Sales Solutions, which may pose as quite the hustle.
 
 🔭 I’m currently working on
 - Flair Fashion Studio Start-up
