@@ -6,7 +6,6 @@ I am currently most interested in Software Development opportunities in the Fin-
 
 🔭 I’m currently working on
 - Flair Fashion Studio Start-up
-- CosmicBase
 
 
 🌱 I’m currently trying to learn
