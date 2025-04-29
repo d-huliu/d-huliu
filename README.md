@@ -5,7 +5,7 @@ Hi, my name is David Hu-Liu, a Computer Science Student @ UWaterloo and Software
 I am currently most interested in Software Development opportunities in the Fin-Tech space; Combining my Investment interest alongside techniques learnt in SWE. My favourite extra-curriculars are fitness and music.
 
 🔭 I’m currently working on
-- Flair Fashion Studio Start-up
+- Flair Studio Start-up
 
 
 🌱 I’m currently trying to learn
