@@ -11,7 +11,7 @@ I am currently most interested in Software Development opportunities in the Fin-
 🌱 I’m currently trying to learn
 - Mathematical Finance
 - Data Structures & Algo
-- Intro to System Design
+- System Design
 
 My Resume: https://dhuliu.ca <br> <br>
 For Business: https://huliu.ca <br> <br>
