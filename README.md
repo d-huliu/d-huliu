@@ -14,7 +14,6 @@ I am currently most interested in Software Development opportunities in the Fin-
 - System Design
 
 My Resume: https://dhuliu.ca <br> <br>
-For Business: https://huliu.ca <br> <br>
 
 
 To Reach out, use:
