@@ -6,7 +6,9 @@ My expertise lies across Full-Stack and Data/ML Driven Initiatives. Checkout my 
 https://devpost.com/huliud9vid
 
 
-My Resume: https://dhuliu.ca <br> <br>
+My Resume: https://huliu.ca <br> <br>
+And Portfolio:
+https://dhuliu.ca <br> <br>
 
 
 To Reach out, use:
