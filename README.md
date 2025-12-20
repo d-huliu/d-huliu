@@ -1,4 +1,4 @@
-### Hi there, I'm https://huliu.ca <br> <br> 👋
+### Hi there, I'm https://huliu.ca 👋!
 
 Hi, my name is David Hu-Liu, a Computer Science Student @ UWaterloo and Software Engineer.
 
