@@ -10,8 +10,7 @@ And Portfolio:
 https://dhuliu.ca <br> <br>
 
 
-To Reach out, use:
-
+Feel free to reach out :)
 
 LinkedIn: https://www.linkedin.com/in/d-huliu
 Email: huliud9vid@gmail.com
