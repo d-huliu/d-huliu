@@ -1,10 +1,10 @@
-### Hi there, I'm David Hu-Liu 👋
+### Hi there, I'm https://huliu.ca <br> <br> 👋
 
 Hi, my name is David Hu-Liu, a Computer Science Student @ UWaterloo and Software Engineer.
 
 I'm aspiring to break into product, and I like building products that incorporate AI. 
 
-My Resume: https://huliu.ca <br> <br>
+
 And Portfolio:
 https://dhuliu.ca <br> <br>
 
