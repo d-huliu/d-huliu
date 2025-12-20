@@ -2,7 +2,7 @@
 
 Hi, my name is David Hu-Liu, a Computer Science Student @ UWaterloo and Software Engineer.
 
-I'm aspiring to break into product, and I like building products that incorporate AI. 
+I'm aspiring to break into product, and I like iterating on products that incorporate AI. 
 <br>
 <br>
 
