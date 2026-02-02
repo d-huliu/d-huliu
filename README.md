@@ -6,7 +6,7 @@ I'm an aspiring product engineer, and I like talking about all things tech or fi
 <br>
 <br>
 
-Showcase Portfolio:
+Archive Portfolio:
 https://dhuliu.ca <br>
 Hackathon Projects:
 https://devpost.com/huliud9vid <br>
