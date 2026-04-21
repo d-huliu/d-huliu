@@ -1,8 +1,8 @@
 ### Hi there, I'm https://huliu.ca 👋!
 
-Hi, my name is David Hu-Liu, a Computer Science Student @ UWaterloo and prev. swe intern
+Hi, my name is David Hu-Liu, a Computer Science Student @ UWaterloo, thinker, and software engineer
 
-I'm an aspiring product engineer, and I like talking about all things tech or finance adjacent
+I'm an aspiring Lead TPM, and I like talking about all things tech or finance adjacent
 <br>
 <br>
 
